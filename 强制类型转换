@@ -1,0 +1,6 @@
+C++中强制类型转换操作符有
+static_cast
+dynamic_cast
+const_cast
+reinterpert_cast
+1.static_cast：
